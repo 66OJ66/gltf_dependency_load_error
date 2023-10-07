@@ -12,7 +12,7 @@ const ITEM_FILE_EXTENSION: &str = "item.ron";
 // ASSETS
 //****************************************************************************
 
-#[derive(Asset, Serialize, Deserialize, TypePath)]
+#[derive(Serialize, Deserialize)]
 pub struct SerialisedItem {
     id: u64,
     name: String,
