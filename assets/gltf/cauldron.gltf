@@ -85,17 +85,17 @@
         {
             "mimeType":"image/ktx2",
             "name":"normal",
-            "uri":"../textures/normal_black_metal_1.ktx2"
+            "uri":"../textures/normal.ktx2"
         },
         {
             "mimeType":"image/ktx2",
             "name":"base_color",
-            "uri":"base_color_black_metal_1.ktx2"
+            "uri":"base_color.ktx2"
         },
         {
             "mimeType":"image/ktx2",
             "name":"metalness-roughness",
-            "uri":"../metalness_black_metal_1-roughness_black_metal_1.ktx2"
+            "uri":"../metalness-roughness.ktx2"
         }
     ],
 	"accessors":[
